@@ -3,6 +3,7 @@
 I'm an experienced Full-Stack Developer building scalable web, mobile, and backend applications. I care about clean code, performance, and secure development.
 
 🛠️ Tech Stack: C#, TypeScript, .NET, Node.js, Flutter, React, and more.
+
 📌 Interests: Clean Architecture, Microservices, AI, and continuous learning.
 
 🚀 Check out my projects here: [Projects](https://github.com/yalcinhayyam/projects)
